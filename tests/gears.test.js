@@ -1,6 +1,6 @@
 // Run: node tests/gears.test.js
 import assert from 'node:assert/strict';
-import { TEETH, PLANETS, RATIO, CENTER_DISTANCE, externalGear, internalGear, pose } from '../js/gears.js';
+import { TEETH, PLANETS, RATIO, CENTER_DISTANCE, externalGear, internalGear, pose } from '../public/js/gears.js';
 
 const inside = (p, poly) => {
   let hit = false;

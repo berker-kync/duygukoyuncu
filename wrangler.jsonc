@@ -1,0 +1,17 @@
+{
+    "name": "duygukoyuncu",
+    "compatibility_date": "2026-10-01",
+    "assets": {
+        "directory": "./public"
+    },
+    "routes": [
+        {
+            "pattern": "duygukoyuncu.com",
+            "custom_domain": true
+        },
+        {
+            "pattern": "www.duygukoyuncu.com",
+            "custom_domain": true
+        }
+    ]
+}
